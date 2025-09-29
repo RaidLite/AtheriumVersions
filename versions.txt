@@ -1,0 +1,3 @@
+AtheriumAchievements: 1.0
+AtheriumStoves: 1.1
+LandsClans: 1.0
